@@ -1,6 +1,6 @@
 ---
-title: "參考"
-linkTitle: "參考"
+title: "參考資料"
+linkTitle: "參考資料"
 weight: 9
 description: >
   Low level reference docs for your project.

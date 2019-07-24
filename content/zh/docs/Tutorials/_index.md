@@ -1,14 +1,47 @@
 ---
 title: "教程"
 linkTitle: "教程"
-weight: 8
+weight: 2
 date: 2017-01-04
 description: >
-  Show your user how to work through some end to end examples.
+  營隊課程綱要說明
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+## 簡介
 
-Tutorials are **complete worked examples** made up of **multiple tasks** that guide the user through a relatively simple but realistic scenario: building an application that uses some of your project’s features, for example. If you have already created some Examples for your project you can base Tutorials on them. This section is **optional**. However, remember that although you may not need this section at first, having tutorials can be useful to help your users engage with your example code, especially if there are aspects that need more explanation than you can easily provide in code comments.
+<hr />
+
+本課程共為期三天，共計 12 節課
+
+{{< blocks/section color="white" >}}
+
+### 2019/07/29
+
+- 13:05 ~ 13:50 micro: bit & 麥昆小車硬體介紹
+- 14:00 ~ 14:45 組裝小車 & MakeCode 程式介面講解
+- 14:55 ~ 15:40 MakeCode 程式初體驗
+- 15:55 ~ 16:40 小車基礎控制 (前進、後退、加減速)
+
+{{< /blocks/section >}}
+
+{{< blocks/section color="white" >}}
+
+### 2019/07/30
+
+- 13:05 ~ 13:50 小車循跡感應 (循跡前進)
+- 14:00 ~ 14:45 小車超音波感測 (避障、跟隨)
+- 14:55 ~ 15:40 小車聲光控制 (LED 調色原理、LED 控制、音效控制)
+- 15:55 ~ 16:40 小車無線控制 (無線廣播原理、無線搖控、體感搖控)
+
+{{< /blocks/section >}}
+
+{{< blocks/section color="white" >}}
+
+### 2019/07/31
+
+- 13:05 ~ 13:50 淺談 AI 視覺辨識
+- 14:00 ~ 14:45 摩圖 MU 視覺辨識模組
+- 14:55 ~ 15:40 分組專案討論
+- 15:55 ~ 16:40 分組專案展示
+
+{{< /blocks/section >}}

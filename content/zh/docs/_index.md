@@ -8,5 +8,5 @@ menu:
 ---
 
 {{% pageinfo %}}
-本次課程教案內容均為 AI4Kids 團隊製作
+課程教案內容均為 AI4Kids 團隊製作
 {{% /pageinfo %}}

@@ -1,25 +1,25 @@
 ---
-title: "概觀"
-linkTitle: "概觀"
+title: "課程概觀"
+linkTitle: "課程概觀"
 date: 2017-12-31
 weight: 1
 description: >
-  Here's where your user finds out if your project is for them.
+  課程內容概要說明
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+課程教案內容均為 AI4Kids 團隊製作
 {{% /pageinfo %}}
 
 The Overview is where your users find out about your project. Depending on the size of your docset, you can have a separate overview page (like this one) or put your overview contents in the Documentation landing page (like in the Docsy User Guide).
 
 Try answering these questions for your user in this page:
 
-## What is it?
+## 課程內容有些什麼?
 
 Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
 
-## Why do I want it?
+## 為什麼我們要來學?
 
 Help your user know if your project will help them. Useful information can include:
 
@@ -29,9 +29,6 @@ Help your user know if your project will help them. Useful information can inclu
 
 - **What is it _not yet_ good for?**: Highlight any useful features that are coming soon.
 
-## Where should I go next?
+## 課程之後要如何繼續學習?
 
 Give your users next steps from the Overview. For example:
-
-- [Getting Started](/getting-started/): Get started with \$project
-- [Examples](/examples/): Check out some example code!

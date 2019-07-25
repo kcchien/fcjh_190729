@@ -1,36 +1,48 @@
 ---
-title: "開始"
-linkTitle: "開始"
+title: "開始之前"
+linkTitle: "開始之前"
 date: 2017-12-31
 weight: 2
 description: >
-  What does your user need to know to try your project?
+  上課前需要準備的物品
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+課程教案內容均為 AI4Kids 團隊製作
 {{% /pageinfo %}}
 
-Information in this section helps your user try your project themselves.
+## 前置需求
 
-- What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
+開始進行課程前，請先確認下列事項是否都已備妥，電腦與作業系統是否符合最低要求
 
-- Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
+### 電腦與作業系統
 
-Consider using the headings below for your getting started page. You can delete any that are not applicable to your project.
+#### 作業系統與瀏覽器
 
-## Prerequisites
+作業系統與瀏覽器建議為下列：
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+- Windows 7, Windows 8, Windows 8.1, or Windows 10:
 
-## Installation
+  - Microsoft Edge
+  - Google Chrome
+  - Mozilla Firefox
 
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
+- OS X 10.9 Mavericks, OS X 10.10
+  Yosemite, OS X 10.11 El Capitan, or macOS 10.12 Sierra:
 
-## Setup
+  - Safari
+  - Google Chrome
+  - Mozilla Firefox
 
-Is there any initial setup users need to do after installation to try your project?
+更詳細的內容請參照下列資訊：
 
-## Try it out!
+(支援瀏覽器的相關資訊)[https://makecode.microbit.org/browsers/technical]
 
-Can your users test their installation, for example by running a commmand or deploying a Hello World example?
+(支援的瀏覽器)[https://makecode.microbit.org/browsers]
+
+### 工具
+
+組裝小車時會需要用到的工具
+
+- 3mm 十字起子
+- 橡皮筋數條 (固定 MU 視覺模組)

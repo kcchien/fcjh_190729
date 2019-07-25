@@ -1,11 +1,15 @@
 ---
-title: "教程"
-linkTitle: "教程"
+title: "教程講義"
+linkTitle: "教程講義"
 weight: 2
 date: 2017-01-04
 description: >
-  營隊課程綱要說明
+  課程內容的講義及實際程式碼
 ---
+
+{{% pageinfo %}}
+課程教案內容均為 AI4Kids 團隊製作
+{{% /pageinfo %}}
 
 ## 簡介
 

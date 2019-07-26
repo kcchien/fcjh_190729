@@ -1,58 +1,28 @@
-# Docsy Example
+# 2019 福科國中麥昆小車 AI 夏令營
 
-[Docsy](https://github.com/google/docsy) is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. This **Docsy Example Project** uses the Docsy theme, as well as providing a skeleton documentation structure for you to use. You can either copy this project and edit it with your own content, or use the theme in your projects like any other [Hugo theme](https://gohugo.io/themes/installing-and-using-themes/).
+本課程是為期三天的暑假短期課程。透過 micro: bit 與麥昆小車套件組，讓學員們學習運算思維，程式設計，AI 與創客的樂趣
 
-This Docsy Example Project is hosted at [https://example.docsy.dev/](https://example.docsy.dev/).
+## 課程大網與活動內容
 
-You can find detailed theme instructions in the Docsy user guide: https://docsy.dev/docs/
+### 2019/07/29
 
-This is not an officially supported Google product. This project is currently maintained.
+- 13:05 ~ 13:50 micro: bit & 麥昆小車硬體介紹
+- 14:00 ~ 14:45 組裝小車 & MakeCode 程式介面講解
+- 14:55 ~ 15:40 MakeCode 程式初體驗
+- 15:55 ~ 16:40 小車基礎控制 (前進、後退、加減速)
 
-## Cloning the Docsy Example Project
+### 2019/07/30
 
-The following will give you a project that is set up and ready to use (don't forget to use `--recurse-submodules` or you won't pull down some of the code you need to generate a working site). The `hugo server` command builds and serves the site. If you just want to build the site, run `hugo` instead.
+- 13:05 ~ 13:50 小車循跡感應 (循跡前進)
+- 14:00 ~ 14:45 小車超音波感測 (避障、跟隨)
+- 14:55 ~ 15:40 小車聲光控制 (LED 調色原理、LED 控制、音效控制)
+- 15:55 ~ 16:40 小車無線控制 (無線廣播原理、無線搖控、體感搖控)
 
-```bash
-git clone --recurse-submodules --depth 1 https://github.com/google/docsy-example.git
-cd docsy-example
-hugo server
-```
+### 2019/07/31
 
-The theme is included as a Git submodule:
+- 13:05 ~ 13:50 淺談 AI 視覺辨識
+- 14:00 ~ 14:45 摩圖 MU 視覺辨識模組
+- 14:55 ~ 15:40 分組專案討論
+- 15:55 ~ 16:40 分組專案展示
 
-```bash
-▶ git submodule
- a053131a4ebf6a59e4e8834a42368e248d98c01d themes/docsy (heads/master)
-```
-
-If you want to do SCSS edits and want to publish these, you need to install `PostCSS` (not needed for `hugo server`):
-
-```bash
-npm install
-```
-
-<!--### Cloning the Example from the Theme Project
-
-
-```bash
-git clone --recurse-submodules --depth 1 https://github.com/docsy.git
-cd tech-doc-hugo-theme/exampleSite
-HUGO_THEMESDIR="../.." hugo server
-```
-
-
-Note that the Hugo Theme Site requires the `exampleSite` to live in a subfolder of the theme itself. To avoid recursive duplication, the example site is added as a Git subtree:
-
-```bash
-git subtree add --prefix exampleSite https://github.com/google/docsy.git  master --squash
-```
-
-To pull in changes, see `pull-deps.sh` script in the theme.-->
-
-## Running the website locally
-
-Once you've cloned the site repo, from the repo root folder, run:
-
-```
-hugo server
-```
+課程教案內容均為 AI4Kids 團隊製作

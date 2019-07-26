@@ -2,6 +2,7 @@
 title: "探索 MakeCode"
 linkTitle: "探索 MakeCode"
 date: 2017-01-05
+slug: makecode
 weight: 3
 description: >
   熟悉 Microsoft MakeCode 介面

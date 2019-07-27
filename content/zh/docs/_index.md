@@ -4,7 +4,7 @@ linkTitle: "教案講義"
 weight: 20
 menu:
   main:
-    weight: 20
+    weight: 2
 ---
 
 {{% pageinfo %}}

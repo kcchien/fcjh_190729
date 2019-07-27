@@ -12,4 +12,6 @@ description: >
 
 ## micro:bit 的感應器
 
+<a href="https://microbit.org/guide/features/" target="_blank">Explore the many features of the micro:bit!</a>
+
 ## 電腦的 Input / Output

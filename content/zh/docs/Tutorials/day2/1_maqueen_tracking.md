@@ -1,5 +1,5 @@
 ---
-title: "小車循跡感應1"
+title: "小車循跡感應"
 linkTitle: "循跡感應"
 slug: maqueen-tracking
 date: 2017-01-05

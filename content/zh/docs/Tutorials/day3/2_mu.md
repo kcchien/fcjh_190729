@@ -26,4 +26,14 @@ description: >
 
 ## 交通卡辨識
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_R7i5cEYqfMCL" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+MU視覺模組已內建數種視覺辨識功能，包含：
+
+- 形狀卡片
+- 交通卡片
+- 數字卡片
+- 人體檢測
+- 球體檢測
+- 顏色識別
+- 顏色檢測
+
+我們將利用交通卡辨識算法來做一個小小專案

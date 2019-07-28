@@ -7,3 +7,8 @@ weight: 3
 description: >
   動手組裝麥昆小車
 ---
+
+## 麥昆小車組裝順序圖
+
+![](https://i.imgur.com/S2XYY8H.jpg)
+(圖為宇宙機器人提供)

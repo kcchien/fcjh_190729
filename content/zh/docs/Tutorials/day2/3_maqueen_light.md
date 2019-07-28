@@ -8,13 +8,19 @@ description: >
   控制小車上的七彩LED燈與蜂鳴器
 ---
 
-# 控制聲光效果
+## 聲光效果
+
+小車上俱備了一個小型蜂嗚器，以及 4 顆彩色 LED 燈
 
 ## 蜂鳴器
 
-簡易音樂盒
+蜂鳴器（Buzzer）是產生聲音的信號裝置，有機械型、機電型及壓電型。蜂鳴器的典型應用包括警笛，報警裝置，火災警報器，防空警報器，防盜器，定時器。
 
-接到耳機或𡃤叭
+蜂鳴器使用直流電供電，接通訊號源之後，音訊信號電流通過電磁線圈，使電磁線圈產生磁場，造成振動膜片週期性地振動發聲，藉由填入音符代碼，每個代碼都會對應到一個數值，這個數值相對應蜂鳴器聲音的頻率，因此就可以編輯音樂，透過蜂鳴器發聲。
+
+### 簡易音樂盒
+
+### 接到耳機或𡃤叭
 
 ## LED
 
@@ -42,7 +48,13 @@ RGB 指的是紅色光（Red）、綠色光（Green）與藍色光（Blue）所�
 
 ![](https://i.imgur.com/Dleh2DT.png)
 
+## 實戰 LED
+
+小車上有四顆 LED 燈，可以發出各式各樣的色彩，透過操控這些 LED 的色彩，我們還將學到電腦科學中常碰到的色彩編碼
+
 ### 安裝 NeoPixel 擴展
+
+---
 
 要能順利使用小車上的 LED，請加入 NeoPixel 擴展，小車控制 LED 的引腳在 `P15`，LED 數量共有 4 個。
 
@@ -50,13 +62,27 @@ RGB 指的是紅色光（Red）、綠色光（Green）與藍色光（Blue）所�
 
 ![NeoPixel blocks](https://i.imgur.com/VNN0Ewj.png)
 
-## 實戰 LED
-
 ### 基本控制
+
+透過 micro:bit 上的按鈕，來觸發小車上的 LED 燈，並發出指定的顏色
+
+---
 
 ### 霹靂燈
 
+---
+
+<a href="https://www.gq.com.tw/blog/riverhong/detail-3724.html" target="_blank">80 年代復古影集《霹靂遊俠》：尖端科技的結晶，人性化的萬能電腦車。</a>
+
+![](https://i.imgur.com/XWHPdq0.jpg)
+
+<iframe width="600" height="337" src="https://www.youtube.com/embed/ZIQATdjKwz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="600" height="337" src="https://www.youtube.com/embed/Jz-QRH7d0YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 呼吸燈
+
+---
 
 實作呼吸燈前，我們需要知道怎麼透過 HSL 色彩表示式，來控制 LED 的顏色顯示
 
@@ -69,3 +95,11 @@ HSL 色彩的寫法是 HSL(色相角度但不加單位 0~360, 色彩飽和度 0~
 色相的 0 度為 R(紅)色，120 度為 G（綠）色，240 度為 B（藍）色，為了記憶方便，先讓我把角度 0 度設定為正上方(與 CSS3 漸層相同)大家記憶比較方便點，所以以順時針方向旋轉，他們之間的角度就如同下圖所示
 
 ![](https://i.imgur.com/Dleh2DT.png)
+
+## 程式概念
+
+### LOOP 迴圈
+
+## 小組任務
+
+讓小車前進的時候可以結合聲光效果，模擬生活中常會出現的警車、消防車、救護車等

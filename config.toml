@@ -56,8 +56,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.zh]
-title = "2019 福科國中麥昆小車夏令營"
-description = "2019 福科國中麥昆小車夏令營專屬網站"
+title = "2019 福科國中 AI 麥昆小車夏令營"
+description = "2019 福科國中 AI 麥昆小車夏令營專屬網站"
 contentDir = "content/zh"
 languageName ="繁體中文"
 time_format_default = "2006/01/02"

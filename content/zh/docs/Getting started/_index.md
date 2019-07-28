@@ -36,9 +36,9 @@ description: >
 
 更詳細的內容請參照下列資訊：
 
-(支援瀏覽器的相關資訊)[https://makecode.microbit.org/browsers/technical]
+[支援瀏覽器的相關資訊](https://makecode.microbit.org/browsers/technical)
 
-(支援的瀏覽器)[https://makecode.microbit.org/browsers]
+[支援的瀏覽器](https://makecode.microbit.org/browsers)
 
 ### 工具
 

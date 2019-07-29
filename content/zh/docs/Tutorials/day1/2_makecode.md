@@ -16,7 +16,7 @@ Microsoft MakeCode 是 micro:bit 的預設程式編輯介面，是由微軟 Micr
 
 ### 連接 micro:bit
 
-將micro:bit隨附的 micro USB 連接線，一端連上電腦，另一端連上micro:bit即可
+將 micro:bit 隨附的 micro USB 連接線，一端連上電腦，另一端連上 micro:bit 即可
 
 ![](https://i.imgur.com/QWuxJRs.gif)
 
@@ -28,16 +28,15 @@ Microsoft MakeCode 是 micro:bit 的預設程式編輯介面，是由微軟 Micr
 
 ### 下載程式
 
-點擊 MakeCode 編輯介面的**下載**按鈕，就可以將程式(.hex檔案)下載到電腦
+點擊 MakeCode 編輯介面的**下載**按鈕，就可以將程式(.hex 檔案)下載到電腦
 
 ![](https://i.imgur.com/hkBZesd.png)
 
 ### 燒錄程式碼
 
-當你將micro:bit連接到電腦時，你應該會在檔案總管中看見一個名稱為**MICROBIT**的隨身碟。請將你剛剛下載的程式檔(.hex檔)，拖放到名稱為**MICROBIT**的隨身碟，等待複製完成後，便成功燒錄了。
+當你將 micro:bit 連接到電腦時，你應該會在檔案總管中看見一個名稱為**MICROBIT**的隨身碟。請將你剛剛下載的程式檔(.hex 檔)，拖放到名稱為**MICROBIT**的隨身碟，等待複製完成後，便成功燒錄了。
 
 ![](https://i.imgur.com/cm6cK27.gif)
-
 
 ### 匯入與分享
 
@@ -57,8 +56,14 @@ Microsoft MakeCode 是 micro:bit 的預設程式編輯介面，是由微軟 Micr
 
 ## Let's Code: 來寫程式吧
 
-### Flashing Heart
-
 ### 瘋狂計步器
 
+https://makecode.microbit.org/_3XHKej1bsiK0
+
+![](https://i.imgur.com/5rb5FwC.png)
+
 ### 剪刀石頭布
+
+https://makecode.microbit.org/_Ass1ss5fxLz7
+
+![](https://i.imgur.com/PmjycDy.png)

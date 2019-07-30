@@ -38,6 +38,21 @@ https://makecode.microbit.org/_DwLFmARqq1sE
 
 ![](https://i.imgur.com/nHWnTib.png)
 
+#### 其他音樂資源參考
+
+- 生日快樂 https://makecode.microbit.org/97217-41458-26568-28834
+- 天空之城 https://makecode.microbit.org/_FLs4AWPr65HX
+- 土耳其進行曲 https://makecode.microbit.org/_EFh0TAit2ftW
+- 不可能的任務 https://makecode.microbit.org/_Umeb3jb1i9CV
+- python https://makecode.microbit.org/_4hki9bfX7FC7
+- Amazing Grace https://makecode.microbit.org/_ECe3fWg2Xcdo
+- 新年快樂 https://makecode.microbit.org/_fevWm31gU6D3
+- 迎春花 https://makecode.microbit.org/_Y8W7MXU0765k
+- 迎新春 https://makecode.microbit.org/_fKMKWfX59J1H
+- 瑪莉兄弟-game over https://makecode.microbit.org/_VAa835ea5aq3
+- 瑪莉兄弟-水底世界音效 https://makecode.microbit.org/_TJqE8vKuDcAh
+- Mozart https://makecode.microbit.org/_gLe0hp3809dh
+
 ### 接到耳機或喇叭
 
 你也可以透過連接耳機或喇叭，將 micro:bit 的聲音輸出

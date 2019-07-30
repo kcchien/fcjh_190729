@@ -25,17 +25,17 @@ description: >
 
 ### 1. 讀取超音波距離
 
+https://makecode.microbit.org/_eYE22z9tWYUr
+
+![](https://i.imgur.com/3vDS2le.png)
+
 ### 2. 超音波避障
 
 小車利用超音波，持續偵測行進路線上是否有障礙物，如果距離障礙物到一定距離，便會試著避開障礙物，朝其他方向前進
 
-#### 入門版
+https://makecode.microbit.org/_Ac4h049CEatf
 
-#### 函數重構版
-
-#### Let's Play: 車庫大戰
-
-把自己的車趕進對方車庫
+![](https://i.imgur.com/wMy9kTM.png)
 
 ### 3. 自動跟隨
 
@@ -44,6 +44,10 @@ description: >
 1. 取得目前超音波距離
 1. 如果目前距離小於設定的跟隨距離，則進入跟隨模式，否則停車
 1. 在跟隨模式中，如果目前距離，大於跟隨距離的一半，則前進，否則後退
+
+https://makecode.microbit.org/_MMiWj5Cvy8jA
+
+![](https://i.imgur.com/2ZtUzyg.png)
 
 ## 程式概念
 

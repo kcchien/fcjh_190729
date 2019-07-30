@@ -52,6 +52,14 @@ https://makecode.microbit.org/_HJebaqCWJgwV水水
 
 ---
 
+micro:bit 提供下列三個軸向的移動狀態，分別是 X、Y、Z:
+
+- X - 左傾或右傾
+- Y - 前傾或後傾
+- Z - 上升或下降
+
+![](https://i.imgur.com/lD5Sn9e.png)
+
 #### 主控 (用晃動姿勢判斷)
 
 https://makecode.microbit.org/_T64V30Uy6CvC

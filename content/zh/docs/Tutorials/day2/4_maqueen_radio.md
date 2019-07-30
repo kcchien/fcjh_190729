@@ -18,12 +18,54 @@ description: >
 
 ### 基本訊息收發
 
+---
+
+#### 發送端
+
+https://makecode.microbit.org/_Lr4Yv5039cYr
+
+![](https://i.imgur.com/FPu7CI7.png)
+
+#### 接收端
+
+https://makecode.microbit.org/_feAJfFi3bALm
+
+![](https://i.imgur.com/vNAFWax.png)
+
 ### 用廣播控制小車動作
+
+---
+
+##### 主控
+
+https://makecode.microbit.org/_725hYVCk46pr
+
+![](https://i.imgur.com/8SspJQv.png)
+
+##### 被控
+
+https://makecode.microbit.org/_HJebaqCWJgwV水水
+
+![](https://i.imgur.com/MshcviC.png)
 
 ### 體感控制
 
-![](https://i.imgur.com/lD5Sn9e.png)
+---
 
-主控程式
+#### 主控 (用晃動姿勢判斷)
 
-被控程式
+https://makecode.microbit.org/_T64V30Uy6CvC
+
+![](https://i.imgur.com/LDZTPuq.png)
+
+#### 主控 (用 G 值判斷)
+
+https://makecode.microbit.org/_AFw2JVFwFhEW
+
+![](https://i.imgur.com/5r3fKXI.png)
+
+#### 被控
+
+https://makecode.microbit.org/_AJEATc8k7grc
+
+![](https://i.imgur.com/7LZJnzc.png)

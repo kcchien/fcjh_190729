@@ -105,6 +105,10 @@ RGB 指的是紅色光（Red）、綠色光（Green）與藍色光（Blue）所�
 
 透過 micro:bit 上的按鈕，來觸發小車上的 LED 燈，並發出指定的顏色
 
+https://makecode.microbit.org/_f6DM3TFMtAio
+
+![](https://i.imgur.com/OIIpWBZ.png)
+
 ---
 
 ### 霹靂燈
@@ -118,6 +122,10 @@ RGB 指的是紅色光（Red）、綠色光（Green）與藍色光（Blue）所�
 <iframe width="600" height="337" src="https://www.youtube.com/embed/ZIQATdjKwz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="600" height="337" src="https://www.youtube.com/embed/Jz-QRH7d0YA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://makecode.microbit.org/_fxdUcg8p91Cv
+
+![](https://i.imgur.com/rtWRrh3.png)
 
 ### 呼吸燈
 
@@ -135,10 +143,6 @@ HSL 色彩的寫法是 HSL(色相角度但不加單位 0~360, 色彩飽和度 0~
 
 ![](https://i.imgur.com/Dleh2DT.png)
 
-## 程式概念
+https://makecode.microbit.org/_36DciDiomMPU
 
-### LOOP 迴圈
-
-## 小組任務
-
-讓小車前進的時候可以結合聲光效果，模擬生活中常會出現的警車、消防車、救護車等
+![](https://i.imgur.com/WdfIRLE.png)

@@ -53,6 +53,8 @@ https://makecode.microbit.org/_DwLFmARqq1sE
 - 瑪莉兄弟-水底世界音效 https://makecode.microbit.org/_TJqE8vKuDcAh
 - Mozart https://makecode.microbit.org/_gLe0hp3809dh
 
+(referenced : 宜蘭國華國中 優秀張大師以 micro:bit 音樂資源分享)
+
 ### 接到耳機或喇叭
 
 你也可以透過連接耳機或喇叭，將 micro:bit 的聲音輸出

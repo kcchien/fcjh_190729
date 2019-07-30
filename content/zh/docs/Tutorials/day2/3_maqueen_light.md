@@ -18,7 +18,25 @@ description: >
 
 蜂鳴器使用直流電供電，接通訊號源之後，音訊信號電流通過電磁線圈，使電磁線圈產生磁場，造成振動膜片週期性地振動發聲，藉由填入音符代碼，每個代碼都會對應到一個數值，這個數值相對應蜂鳴器聲音的頻率，因此就可以編輯音樂，透過蜂鳴器發聲。
 
-### 簡易音樂盒
+![](https://i.imgur.com/i8UeSl3.jpg)
+
+[音高頻率表 wiki](https://zh.wikipedia.org/wiki/%E9%9F%B3%E9%AB%98)
+
+### 簡易音樂編輯與播放
+
+[瑪莉兄弟音效下載](https://ai4kids-fcjh190729.s3.us-east-1.amazonaws.com/Day2/microbit-%E9%BA%A5%E6%98%86%E5%B0%8F%E8%BB%8A-%E8%9C%82%E9%B3%B4%E5%99%A8-%E7%91%AA%E8%8E%89%E5%85%84%E5%BC%9F.hex)
+
+#### 蜂鳴器-星際大戰
+
+https://makecode.microbit.org/_ae90qfYkwEMK
+
+![](https://i.imgur.com/9yUH8SJ.png)
+
+#### 蜂嗚器-全家門鈴
+
+https://makecode.microbit.org/_DwLFmARqq1sE
+
+![](https://i.imgur.com/nHWnTib.png)
 
 ### 接到耳機或喇叭
 

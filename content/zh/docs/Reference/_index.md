@@ -18,6 +18,10 @@ description: >
 
 `https://github.com/zjuxumang/pxt-MuVisionSensor`
 
+## micro:bit 學習資源
+
+<a href="https://microbit.org/ideas/" target="_blank">micro:bit 官方學習資源</a>
+
 ## MakeCode 所有積木介紹
 
-<a href="https://makecode.microbit.org/reference" target="_blank">MakeCode所有的積木參考</a>
+<a href="https://makecode.microbit.org/reference" target="_blank">MakeCode 所有的積木參考</a>

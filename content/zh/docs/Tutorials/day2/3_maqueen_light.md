@@ -40,6 +40,10 @@ https://makecode.microbit.org/_DwLFmARqq1sE
 
 ### 接到耳機或喇叭
 
+你也可以透過連接耳機或喇叭，將 micro:bit 的聲音輸出
+
+<img src="https://i.imgur.com/hiFhCDl.png" width=600px>
+
 ## LED
 
 LED 的發色原理簡介與小車 LED 元件使用前的注意事項

@@ -16,7 +16,7 @@ description: >
 
 <a href="https://machinelearningforkids.co.uk/" target="_blank" class="btn btn-outline-primary btn-lg">按我進入 AI 教室</a>
 
-![](https://i.imgur.com/246zQQV.png)
+<img src="https://i.imgur.com/246zQQV.png" width=600px>
 
 ## AI 文字識別實作
 
@@ -30,7 +30,7 @@ description: >
 
 > 語言: **Chinese (traditional)** (很重要，請務必選對)
 
-![](https://i.imgur.com/bVJrp5j.png)
+<img src="https://i.imgur.com/bVJrp5j.png" width=600px>
 
 ### 指令範例
 
@@ -68,7 +68,11 @@ description: >
 
 - [AI 版本](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day2/MakeMeHappy-AI.sb3)
 
-## 線上 AI 文字辨識服務體驗
+### 「自然語言處理」是什麼
+
+<a href="http://research.sinica.edu.tw/nlp-natural-language-processing-chinese-knowledge-information/" target="_blank">研之有物-斷開中文的鎖鍊！自然語言處理 (NLP)</a>
+
+### 線上 AI 文字辨識服務體驗
 
 [微軟語音理解服務](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/)
 

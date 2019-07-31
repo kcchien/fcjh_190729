@@ -64,7 +64,8 @@ description: >
 
 ### Scratch 程式碼下載
 
-- [Rule base 版本](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day2/makemehappy-1.sb3)
+- [Rule base 版本](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day2/MakeMeHappy-Rule-base.sb3)
+
 - [AI 版本](https://ai4kids-20190713.s3-ap-southeast-1.amazonaws.com/day2/MakeMeHappy-AI.sb3)
 
 ## 線上 AI 文字辨識服務體驗

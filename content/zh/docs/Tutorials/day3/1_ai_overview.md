@@ -78,6 +78,8 @@ description: >
 
 ## AI 影像識別展示
 
+<a href="https://imagga.com/auto-tagging-demo" target="_blank" class="btn btn-lg btn-outline-primary">imagga 影像辨識服務</a>
+
 ### 如何教會電腦辨認貓跟狗
 
 ![](https://i.imgur.com/y0ehOv2.jpg)
